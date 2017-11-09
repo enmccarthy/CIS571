@@ -1,0 +1,18 @@
+#import urllib2
+import sys
+import requests
+from bs4 import BeautifulSoup
+
+def readPage(url, filename):
+    ##page = urllib2.urlopen(url)
+    page = requests.get(url)
+    ##page_content = page.read()
+    differentChars = page.text.encode('utf-8').decode('ascii','ignore')
+    soup = BeautifulSoup(differentChars, 'lxml-xml')
+    f = open(filename, 'w+')
+    print(soup.get_text())
+    f.write(soup.get_text())
+    f.close()
+
+
+readPage(sys.argv[1], sys.argv[2])
