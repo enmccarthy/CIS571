@@ -1,16 +1,13 @@
 from __future__ import division
 import numpy as np
 import os
-from divLabels import learn
+from divLabels import learn, test
 # TODO
 #this should probably take the log instead of floating point multi
 #becasue the numbers can get too small
 
 # I now need to import test and then run through all of those files
-# and test after the bayes net has gone through learn
-
-#make sure learn is what I think it looks like because this runs
-# a little faster than I think it should 
+# and test after the bayes net has gone through learn 
 
 #my ugly global variables
 trainPositive = {}
@@ -39,7 +36,7 @@ def processEmail(fileName, label):
     fi = open(os.path.join(path, fileName), "r")
     for line in fi:
         for word in line.split():
-            if label == 0:
+            if int(label) == 0:
                 trainPositive[word] = trainPositive.get(word,0) + 1
                 positiveTotal +=1
             else:
@@ -49,14 +46,15 @@ def processEmail(fileName, label):
 def conditionalWord(word, label):
     global trainPositive
     global trainNegative, positiveTotal, negativeTotal
-    if label == 0:
-        return (trainPositive.get(word, 0)+1)/(float)(positiveTotal+(1*numWords))
-    return (trainNegative.get(word,0)+1)/(float)(negativeTotal+(1*numWords))
+    if int(label) == 0:
+        #print (trainPositive.get(word, 0)+1)/(float)(positiveTotal+(1*positiveTotal + negativeTotal))
+        return (trainPositive.get(word, 0)+1)/(float)(positiveTotal+(1*positiveTotal + negativeTotal))
+    return (trainNegative.get(word,0)+1)/(float)(negativeTotal+(1*positiveTotal + negativeTotal))
 
 def conditionalEmail(fileName, label):
     result = 1.0
     path = "/mnt/c/Users/merin/Desktop/CIS571/CSDMC2010_SPAM/CSDMC2010_SPAM/CLEANED_TRAIN"
-    fi = open(os.join.path(path, fileName))
+    fi = open(os.path.join(path, fileName))
     for line in fi:
         for word in line.split():
             result *= conditionalWord(word, label)
@@ -69,4 +67,19 @@ def classify(fileName):
     return isSpam > notSpam
                 
 train()            
-        
+totalRight = 0
+total = 0
+for (label, fileName) in test:
+    if classify(fileName) and int(label) == 0:
+        totalRight +=1
+        total +=1
+    elif not classify(fileName) and int(label) == 1:
+        totalRight +=1
+        total +=1
+    else:
+        total +=1
+print "Total right:"
+print totalRight
+print "Total files:"
+print total
+print totalRight/float(total)
