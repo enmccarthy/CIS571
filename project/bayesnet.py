@@ -6,6 +6,12 @@ from divLabels import learn
 #this should probably take the log instead of floating point multi
 #becasue the numbers can get too small
 
+# I now need to import test and then run through all of those files
+# and test after the bayes net has gone through learn
+
+#make sure learn is what I think it looks like because this runs
+# a little faster than I think it should 
+
 #my ugly global variables
 trainPositive = {}
 trainNegative = {}

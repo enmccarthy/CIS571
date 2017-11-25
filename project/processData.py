@@ -2,11 +2,12 @@ import errno
 import os
 import re
 from stopWords import stop_words
-# go through all files in a directory using os.listdir
-# remove all non alph characters but keep spaces
-#output files to a new directory
 
-#should I remove stop words here (so slow so ugly)
+# since I remove all characters(> ' ( etc.) and numbers
+# this does a strange thing with contractions and
+# I just ignored that for now because
+# it doesn't impact this project 
+
 def editFiles(dirPath, outPath):
     try:
         os.makedirs(outPath)
