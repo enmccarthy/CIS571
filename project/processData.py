@@ -3,11 +3,11 @@ import os
 import re
 from stopWords import stop_words
 
-# since I remove all characters(> ' ( etc.) and numbers
-# this does a strange thing with contractions and
-# I just ignored that for now because
-# it doesn't impact this project 
-
+#TODO
+#fix contractions
+#delete all one word lines
+#delete all lines that have 'var or html etc'
+#delete all lines after story body 
 def editFiles(dirPath, outPath):
     try:
         os.makedirs(outPath)
@@ -21,6 +21,7 @@ def editFiles(dirPath, outPath):
         file = open(os.path.join(dirPath,inputFile),"r")
         output = open(os.path.join(outPath,outputName), "w+")
         for line in file:
+            if not line.strip(): continue
             line = re.sub("\S*\d\S*","",line).strip()
             line = re.sub('[\W_]+', ' ', line, flags=re.UNICODE)
             newLineCopy = line.split()
@@ -37,4 +38,4 @@ def editFiles(dirPath, outPath):
             output.write(joinLine + "\n")
         
 
-editFiles("/mnt/c/Users/merin/Desktop/CIS571/CSDMC2010_SPAM/CSDMC2010_SPAM/TRAINING_RESULTS", "/mnt/c/Users/merin/Desktop/CIS571/CSDMC2010_SPAM/CSDMC2010_SPAM/CLEANED_TRAIN")
+editFiles("./data/", "./editedData/")
