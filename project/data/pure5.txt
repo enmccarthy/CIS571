@@ -1,0 +1,27 @@
+Shares of storage technology vendor Pure Storage ( PSTG) today closed down $1.36, or 7.2%, at $17.66, continuing last night's decline, amidst a broad sell-off of tech names, after Pure on Tuesday beat expectations with its fiscal Q3 report, and its forecast.
+
+As I wrote in that post, CEO Charlie Giancarlo told me in an interview that the stock drop might be little more than the shares having run up in recent months and some people taking profits.
+
+Despite the drop, the reception on the Street today was fairly positive, with several price targets going higher.
+
+FBN Securities's Shebly Seyrafi, reiterating an Outperform rating, and raising his price target to $20 from $17, writes that the results were strong, but he agrees with Giancarlo that the move up in the shares of late is indeed reason for some "profit taking."
+
+One "surface negative" that Seyrafi points out is the gross profit margin on product sales, which was 66.3%, down by a little over a point from the prior quarter. "However, this is mostly because the product GM% in the prior quarter (FQ2) was artificially high," he writes, "due to one-time benefits including lower-cost components from pre-purchased inventory and one-time logistics benefits."
+
+As for the company's FlashBlade product, it's "still growing well," he writes, but its growth "is somewhat off its earlier 2x pace."
+
+"The company said that the FlashBlade revenue contribution for the full year is "in the ballpark" of $80M, though we think it is a bit smaller than this."
+
+BMO Capital's Tim Long, reiterating an Outperform rating as well, and raising his price target to $22 from $16, also calls the quarter "strong, " and thinks the opportunities for the company "remain strong," citing things such as machine learning.
+
+Moreover, he's focused on the company's march to profit, which Giancarlo yesterday confirmed will come this quarter.
+
+"In what was very nearly Pure's first quarter with positive operating margins, margins beat by almost 300 bps," notes Long.
+
+"The strong performance reflects Pure's meaningful leverage opportunity, with positive margins expected next quarter and significant margin expansion anticipated over the next few years."
+
+Morgan Stanley's Katy Huberty, reiterating an Equal Weight rating, and raising her price target to $18 from $15, writes that the shortfall in FlashBlade sales is just "lumpy orders."
+
+She thinks the stock's multiple of forward earnings could expand from 3.2 times at the moment to "closer to peer Nutanix, or 4.5 times," referring to competitor Nutanix ( NTNX).
+
+Nutanix, I would note, is scheduled to report its own results tomorrow, after the closing bell.

@@ -1,0 +1,19 @@
+At a time when investors are craving securities that move more than the usual 1% each day, the retailer's (ticker: ULTA) options trade with an implied volatility of about 44%, about six times that of Standard & Poor's 500 options. This makes Ulta's late Thursday earnings report a key event in the trading community.
+
+Ulta's options volatility reflects the controversy around the stock, which has fallen some 14% this year. Even after underperforming the broad market, there's no clear consensus about what happens next. Some investors are concerned about weakness in the cosmetics sector, while others contend that all of the bad news is already priced into the shares, including greater competition from Amazon.com (AMZN).
+
+Those issues elevate the volatility in Ulta's options, while putting a big question mark over a $221 stock that has ranged from $187.96 to $314.86 over the past 52 weeks.
+
+Two options trades are worth considering.
+
+When the stock was around $199, Goldman Sachs was telling clients to "straddle" the stock into January in anticipation of either a relief rally or a decline in reaction to earnings and holiday sales. The bank recommended clients buy the January $200 put and call for $27.
+
+A straddle involves buying a put and call with the same strike price and expiration. The strategy is used when investors think a stock will make a sharp move, but they are unsure of the direction.
+
+For the trade to prove profitable, the stock must move more than the cost of the straddle. If it moves less, the trade fails. Another drawback: Straddles require buying Ulta's high-volatility options. Most investors sell expensive options.
+
+If that approach appeals, and you don't mind potentially buying a controversial stock at a lower price, consider selling Ulta's June $210 puts for about $18.
+
+Oppenheimer's Michael Schwartz is recommending that trade to clients to monetize his firm's view that Ulta's stock may bottom around $185 to $190 as cosmetic sales slow.
+
+If the stock is above $210 at expiration, investors can keep the $18 premium for selling the put. If the stock is below $210 at expiration, investors are obligated to buy the stock or buy back the put.

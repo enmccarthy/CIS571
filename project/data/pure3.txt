@@ -1,0 +1,27 @@
+Good afternoon. My name is Mike and I will be your conference operator today. At this time, I would like to welcome everyone to the Pure Storage Q3 Fiscal 2018 Earnings Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions].
+
+I will now turn the call over to Matt Danziger, VP of Investor Relations. You may begin your conference.
+
+Matt Danziger
+
+Thank you and good afternoon. Welcome to the Pure Storage Q3 Fiscal 2018 Earnings Conference Call. Joining me today are our CEO, Charlie Giancarlo; our CFO, Tim Riitters; our President, David Hatfield; and our VP of Products, Matt Kixmoeller.
+
+Before we begin, I would like to remind you that during this call, management will make forward-looking statements which are subject to various risks and uncertainties. These include statements regarding competitive, industry and technology trends; our strategy, positioning and opportunity; our current and future products; business and operations, including our operating model; growth prospects, revenue and margin guidance for future periods.
+
+Any forward-looking statements that we make are based on assumptions as of today and we undertake no obligation to update them. Our actual results may differ materially from the results predicted, and reported results should not be considered an indication of future performance. A discussion of risks and uncertainties relating to our business is contained in our filings with the SEC and we refer you to these public filings.
+
+Also, during this call, we will discuss non-GAAP measures in talking about the company's performance. Reconciliations to the most directly comparable GAAP measures are provided in our earnings press release and slides.
+
+This call is being broadcast live on Pure Storage’s Investor Relations Web site and is being recorded for playback purposes. An archive of the webcast will be available on the IR Web site for approximately 45 days and is the property of Pure Storage.
+
+With that, I'll turn the call over to our CEO, Charlie Giancarlo.
+
+Charles Giancarlo
+
+Thank you, Matt. Good afternoon everyone and thanks for joining today's earnings call. We’ll begin with a summary of our operating results and my observations after my first full quarter at Pure. I will then turn the call over to Hat for some customer highlights and finish with Tim who will provide a detailed review of our financials.
+
+Q3 was a strong quarter for Pure. Revenue was a record 278 million, up 41% from a year ago beating the high end of our guidance. Non-GAAP gross margin was 66% while non-GAAP operating margin was a negative 0.7%, also above the high end of our guidance.
+
+We finished the quarter with a positive free cash flow and grew our cash balance by 28 million. As we look ahead, we remain on track to deliver our first $1 billion in annual revenue and our first profitable quarter.
+
+It has been three months since I joined Pure and as you would expect I’ve spent a lot of time diving into the business, meeting with customers and partners in addition to spending time with the Pure team discussing our company and our strategic imperatives.

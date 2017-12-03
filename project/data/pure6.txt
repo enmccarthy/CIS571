@@ -1,0 +1,15 @@
+Shares of enterprise and cloud "hyper-converged" vendor Nutanix ( NTNX) are up $3.61, or 11%, at $36.41, staging an impressive rebound from some initial after-hours losses last night, after the company reported fiscal Q1 results that bested analysts' expectations, and forecast this quarter's results better on the bottom line.
+
+The central point of the story today is the company's intention to be more and more just a software vendor, something consistent with the remarks that CEO Dheeraj Pandey has made in this blog in past. Last night Nutanix told analysts that hardware revenue, which was 26% of the company's "billings" last quarter, will decline to just 9% by the end of this fiscal year.
+
+That's a distinct contrast to some competitors such as Pure Storage ( PSTG), whose chief executive, Charles Giancarlo, on Tuesday told me hardware excellence continues to be important to the company's use of flash-based storage.
+
+In a phone call following the report and the conference call, Pandey told me that move to software is akin to the move Netflix ( NFLX) made a decade ago, "from shipping videos to streaming videos over the Web," as he put it.
+
+"There's a much larger market as you move to more software," he said.
+
+"Investors are slowly beginning to get it," he told me last night, "but they are waiting and watching to see that we execute on our promise, in the form of a software P&L."
+
+Some appear to be getting it. Shebly Seyrafi of FBN Securities, reiterating an Outperform rating, and raising his price target to $40 from $30, writes the "gross margin percentage is going to materially increase over the coming quarters."
+
+"For example, had NTNX not recognized any pass-through hardware over the past 12 months, its GM% would have been above 80% (vs. the 61-64% reported), so as pass-through hardware % of billings approaches 5%, we expect overall GM% to increase materially (please see our model)."

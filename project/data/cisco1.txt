@@ -1,0 +1,21 @@
+Good afternoon, everybody. I’m Brad Zelnick. I’m one of the software analysts here at Credit Suisse and we are delighted to be joined by Cisco. I introduce Ish Limkakeng, SVP of Product Marketing for the Data Center Switching Business. And if you haven't thought of this already, you might be asking yourself, "Why is the software guy up here with Cisco?" I think a lot of Cisco's future is about software. And we're going to talk a little bit about that as well. It also is the result of a coverage gap at Credit Suisse, if I'm being quite honest, one that shall resolve itself in very short order.
+
+But with that, I believe in the wisdom of crowds, and I look to all of you, as I had many prepared questions, I'm hoping that you're going to join in as well and raise your hands. And if you're shy, you can send me an e-mail to brad.zelnick@credit-suisse.com and I will check it periodically as we have our discussion. But the format today, Ish, please have a seat. Welcome, its fireside chat and we'll look to make this is productive as possible.
+
+So with that, maybe I’ll open up by prepared to just a brief buy to Ish, the Senior Vice President of Data Center Business Group, he' principally responsible for Cisco’s flagship data center switching products, the Nexus 9000, the 3000 as well as ACI. He has been in Cisco since 1998 in various roles in sales and marketing. He was also part of the Insieme Networks business segment, which was spun into Cisco in 2013. Keep me honest here, if I get any of this wrong.
+
+Ish Limkakeng
+
+You got it.
+
+Brad Zelnick
+
+I got it right, okay, cool. With that, maybe we can open it up Ish just data center trends, maybe talk about what you seeing in the data center. The shift for the cloud has been a major driver for data center spent where service provider spending has remains not as robust. Even in your recent earnings report, the service provider segment continues to struggle. How you navigating this headwinds? And where you see opportunities for Cisco ahead?
+
+Ish Limkakeng
+
+Yes, absolutely. Thank you very much. Thanks for having me here. First thing, first, we’ll be making forward-looking statements, so need to make that disclaimer at this point. But from a standpoint data center, we’re very excited about where we are with data center switching and kind of a lot of the underlying trends that are driving in that market. You mentioned a couple from a public cloud standpoint of course been a lot of growth there. I kind of look at the market in really, you can think of it, in three pieces. There is public cloud, mega scale center. There are these traditional service providers and then there are some of the huge segments of enterprise, promotional, public sector customers. There are really three distinct markets and we see different growth dynamics in trends and each of them.
+
+In the enterprise and commercial side of the world is what we see, there are still a lot of growth there, but a lot of those customers are kind of wrestling with challenges of what hybrid cloud -- what a hybrid cloud will looks like for that, and I’ll get into that a little bit. But I think it’s a great opportunity for us in the industry and for us Cisco, typically to help them with that challenge. As pretty much all of our customers have some combination of an on-prem environment and a public cloud or at least a third-party hosting environment, and are looking to figure out how can I do workload placement in a way that, is business driven not technology driven.
+
+And so that feeds into a lot of what we’re doing in our data center business, not just of course providing state-of-the-art data center switching and our server business, but also the software above that, and how we can help them, orchestrate policy, move workloads and have consistent security across these different environments. And that's kind of a one of the key dynamics that we see in that enterprise commercial is that architecture play is really effective for us, and I think effective for the customers. From a service provider standpoint, we've a great -- we have great traction and we're getting with our 9K, our Nexus 9K and ACI, a lot of progress in services rather.

@@ -1,0 +1,52 @@
+HPE Brings Artificial Intelligence to the Data Center
+Predictive All-flash Storage Paves the Path for the Autonomous Data Center with Industry's First AI Recommendation Engine for HPE InfoSight; HPE Extends HPE InfoSight to 3PAR
+
+PALO ALTO, Calif., Nov. 21, 2017 (GLOBE NEWSWIRE) -- Hewlett Packard Enterprise (NYSE:HPE) today announced the industry's first artificial intelligence (AI) recommendation engine designed to simplify and reduce the guesswork in managing infrastructure and improve application reliability. HPE InfoSight is an industry-leading predictive analytics platform that brings software-defined intelligence to the data center with the ability to predict and prevent infrastructure problems before they happen. Leveraging advanced machine learning, the new capabilities for HPE InfoSight pave the path toward an autonomous data center. HPE also announced the first release of HPE InfoSight for HPE 3PAR, setting in motion the promise to extend machine learning across the HPE storage and server portfolio.
+
+Businesses today cannot afford any disruptions or delays to their applications. But the complexity of infrastructure causes an "App-Data Gap" that impacts businesses and wastes time. HPE is working to minimize disruptions and lost time through the AI and predictive analytics capabilities of HPE InfoSight, reducing the time spent troubleshooting issues by up to 85%(1) .
+
+Every second, HPE InfoSight analyzes millions of sensors across the globally connected installed base and uses this data to predict and prevent problems from storage to applications. HPE InfoSight ensures reliable performance and application uptime, helping to deliver greater than 99.9999% of guaranteed availability.
+
+"HPE InfoSight marks the first time a major storage vendor has been able to predict issues and proactively resolve them before a customer is even aware of the problem," said Bill Philbin, Senior Vice President, HPE GM Storage. "As applications increasingly drive today's businesses, we need to help customers move toward a self-managing IT model. HPE InfoSight enables IT to spend more time on projects that add value to the business rather than on troubleshooting issues."
+
+The next step toward an autonomous data center
+
+HPE InfoSight lays the groundwork for an autonomous data center with the new AI recommendation engine. Building on its predictive capabilities, HPE InfoSight now preemptively advises IT how to avoid issues, improve performance, and optimize available resources. The recommendations are based on advanced machine learning that leverages almost a decade of data science expertise and rich telemetry collected from more than 10,000 HPE Nimble Storage customers. HPE InfoSight continuously learns, making customers' systems smarter and more reliable. Third-party research has recently shown that HPE InfoSight lowers storage IT OpEx by 79%.
+
+"InfoSight's predictive analytics have saved us from potentially impactful issues," said Justin Giardina, CTO, iland Secure Cloud. "And the new recommendation engine is phenomenal as it's making proactive decisions, showing us how we can improve our environment. iland provides 100% availability to our customers, and InfoSight is a huge part in making that happen."
+
+Bringing the power of predictive to 3PAR
+
+HPE has demonstrated the unique capabilities of HPE InfoSight in HPE Nimble Storage environments, where today 86% of issues are resolved automatically before the customer knows a problem exists. By extending HPE InfoSight to 3PAR, both HPE Nimble Storage and 3PAR customers can now realize the significant benefits of HPE InfoSight.
+
+This first release of HPE InfoSight for 3PAR makes available the following capabilities:
+
+-- Cross-stack analytics. For 3PAR customers running the latest release of
+
+the 3PAR operating system2, HPE InfoSight will also provide IT the
+
+ability to resolve performance problems and pinpoint the root cause of
+
+issues between the storage and host virtual machines (VMs). It also
+
+provides visibility to locate "noisy neighbor" VMs.
+
+-- Global visibility. Through a new cloud portal that combines HPE Infosight
+
+and HPE StoreFront Remote, all current 3PAR customers with systems that
+
+are remotely connected will see detailed performance trending, capacity
+
+predictions, health checks and best practice information across all of
+
+their 3PAR arrays.
+
+-- Foundation to enable predictive support. Analytics and automation
+
+infrastructure are now in place that in the future will be used to detect
+
+anomalies, predict complex problems, and route cases directly to Level 3
+
+support.
+
+"None of HPE's competitors have the predictive capabilities of InfoSight, " said Morten Nyhuus-Eriksen, Global Head of Storage & Backup, Basefarm. "The cross-stack analytics will save my team tremendous time troubleshooting our complex environment. InfoSight for 3PAR is going to make a big impact for our business and theirs."

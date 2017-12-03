@@ -1,0 +1,793 @@
+MOUNTAIN VIEW, Calif., Nov. 28, 2017 /PRNewswire/ -- Pure Storage (NYSE: PSTG) today announced financial results for its third quarter ended October 31, 2017.
+
+Key quarterly business and financial highlights include:
+
+-- Record quarterly revenue: $278 million, up 41% Y/Y, 2% ahead of midpoint
+
+of guidance
+
+-- Quarterly gross margin: 65.5% GAAP; 66.4% non-GAAP
+
+-- Quarterly operating margin: -15.1% GAAP; -0.7% non-GAAP, up 24.6 ppts and
+
+9.1 ppts Y/Y, respectively
+
+-- Raising full-year fiscal 2018 revenue guidance to between $1.012 billion
+
+and $1.020 billion and non-GAAP operating margin guidance to between
+
+-4.9% and -3.5%
+
+"Pure has built a platform that allows customers to build a better world with data," said Pure Storage CEO Charlie Giancarlo. "Pure offers a simpler, more effective, and agile solution for data-rich applications like artificial intelligence."
+
+In the quarter, more than 300 new customers joined Pure Storage, increasing the total to more than 4,000 organizations, including more than 25% of the Fortune 500. A few new customer wins in the quarter include: NASA Goddard, Krispy Kreme, John Lewis PLC, Movado Group, Weave Communications, Comodo Group, and Pronto Software.
+
+"We had an excellent quarter, highlighted by strong revenue growth, positive free cash flow, and a continued march toward profitability," said Pure Storage CFO Tim Riitters. "We are excited to be fast approaching the $1 billion annual revenue mark and our first profitable quarter on a non-GAAP basis."
+
+Third Quarter Fiscal 2018 Financial Highlights
+
+The following tables summarize our consolidated financial results for the fiscal quarters ended October 31, 2017 and 2016 (in millions except percentages and per share amounts, unaudited):
+
+GAAP Quarterly Financial Information
+
+Three Months
+
+Ended October 31, Three Months Ended
+
+2017 October 31, 2016 Y/Y Change
+
+Revenue $277.7 $197.0 41%
+
+Gross Margin 65.5% 64.8% 0.7 ppts
+
+Product Gross Margin 66.2% 65.9% 0.3 ppts
+
+Support Gross Margin 62.4% 59.9% 2.5 ppts
+
+Operating Loss -$41.8 -$78.2 $36.4
+
+Operating Margin -15.1% -39.7% 24.6 ppts
+
+Net Loss -$41.6 -$78.8 $37.2
+
+Net Loss per Share -$0.20 -$0.40 $0.20
+
+Weighted-Average
+
+Shares (Basic and
+
+Diluted) 213.3 195.8 N/A
+
+Non-GAAP Quarterly Financial Information
+
+Three Months
+
+Ended October 31, Three Months Ended
+
+2017 October 31, 2016 Y/Y Change
+
+Gross Margin 66.4% 65.5% 0.9 ppts
+
+Product Gross Margin 66.3% 66.0% 0.3 ppts
+
+Support Gross Margin 67.0% 63.2% 3.8 ppts
+
+Operating Loss -$2.1 -$19.4 $17.3
+
+Operating Margin -0.7% -9.8% 9.1 ppts
+
+Net Loss -$1.9 -$20.0 $18.1
+
+Net Loss per Share -$0.01 -$0.10 $0.09
+
+A reconciliation between GAAP and non-GAAP information is provided at the end of this release.
+
+Financial Outlook
+
+Pure Storage's fourth quarter fiscal 2018 guidance is as follows:
+
+-- Revenue in the range of $327 million to $335 million
+
+-- Non-GAAP gross margin in the range of 63.5% to 66.5%
+
+-- Non-GAAP operating margin in the range of 3.0% to 7.0%
+
+Pure Storage's full year fiscal 2018 guidance is as follows:
+
+-- Revenue in the range of $1.012 billion to $1.020 billion
+
+-- Non-GAAP gross margin in the range of 65.6% to 66.6%
+
+-- Non-GAAP operating margin in the range of -4.9% to -3.5%
+
+All forward-looking non-GAAP financial measures contained in this section titled "Financial Outlook" exclude stock-based compensation expense, payroll tax expense related to stock-based activities and, as applicable, other special items. We have not reconciled guidance for non-GAAP gross margin and non-GAAP operating margin to their most directly comparable GAAP measures because such items that impact these measures are not within our control and/or cannot be reasonably predicted. Accordingly, a reconciliation of the non-GAAP financial measure guidance to the corresponding GAAP measures is not available without unreasonable effort.
+
+Conference Call Information
+
+Pure Storage will host a teleconference to discuss the third quarter fiscal 2018 results at 2:00 p.m. (PT) on November 28, 2017. Pure Storage will post its supplemental earnings presentation to the investor relations website at investor.purestorage.com following the conference call.
+
+Teleconference details are as follows:
+
+-- To Listen via Telephone: (833) 245-9656 or (647) 689-4543 (for
+
+international callers).
+
+-- To Listen via the Internet: A live and replay audio broadcast of the
+
+conference call with corresponding slides will be available at
+
+investor.purestorage.com.
+
+-- Replay: A telephone playback of this conference call is scheduled to be
+
+available two hours after the call ends on Tuesday, November 28, 2017,
+
+through December 12, 2017. The replay will be accessible by calling (800)
+
+585-8367 or (416) 621-4642 (for international callers), with conference
+
+ID 2498308. The call runs 24 hours per day, including weekends.
+
+Upcoming Investor Events
+
+Pure Storage will be participating in upcoming financial Q&A discussions at industry events on December 5th at 1:15 p.m. MST in Deer Valley, UT and December 7th at 2:30 p.m. PST in San Francisco, CA. Pure Storage will post a link to the live webcast on the investor relations website at investor.purestorage.com for both live and archived events.
+
+About Pure Storage
+
+Pure Storage (NYSE:PSTG) helps companies push the boundaries of what's possible. Pure's end-to-end data platform - including FlashArray, FlashBlade and our converged offering with Cisco, FlashStack -- is powered by innovative software that's cloud-connected for management from anywhere on a mobile device and supported by the Evergreen business model. The company's all-flash based technology, combined with its customer-friendly business model, drives business and IT transformation with solutions that are effortless, efficient and evergreen. With Pure's industry leading Satmetrix-certified NPS score of 83.7, Pure customers are some of the happiest in the world, and include organizations of all sizes, across an ever-expanding range of industries.
+
+Connect with Pure Storage:
+
+Read the blog
+
+Converse on Twitter
+
+Follow on LinkedIn
+
+Analyst Recognition:
+
+Gartner Magic Quadrant for Solid-State Arrays
+
+IDC MarketScape for All-Flash Arrays
+
+Pure Storage, Evergreen, FlashBlade, FlashStack and the "P" Logo mark are trademarks of Pure Storage, Inc. All other trademarks or names referenced in this document are the property of their respective owners.
+
+Forward Looking Statements
+
+This press release contains forward-looking statements regarding our products, business and operations, including our expectations regarding technology differentiation, and our outlook for the fourth quarter and full year fiscal 2018 and statements regarding our products, business, operations and results, including fourth quarter profitability. Forward-looking statements are subject to known and unknown risks and uncertainties and are based on potentially inaccurate assumptions that could cause actual results to differ materially from those expected or implied by the forward-looking statements. Actual results may differ materially from the results predicted, and reported results should not be considered as an indication of future performance. The potential risks and uncertainties that could cause actual results to differ from the results predicted include, among others, those risks and uncertainties included under the captions "Risk Factors" and elsewhere in our filings and reports with the U.S. Securities and Exchange Commission, including, which are available on our investor relations website at investor.purestorage.com and on the SEC website at www.sec.gov. Additional information will also be set forth in our Quarterly Report on Form 10-Q for the quarter ended October 31, 2017. All information provided in this release and in the attachments is as of November 28, 2017, and we undertake no duty to update this information unless required by law.
+
+Non-GAAP Financial Measures
+
+To supplement our condensed consolidated financial statements, which are prepared and presented in accordance with GAAP, we use the following non-GAAP financial measures: non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating loss, non-GAAP operating margin, non-GAAP net loss, non-GAAP net loss per share, free cash flow, and free cash flow as a percentage of revenue. In computing these non-GAAP financial measures, we exclude the effects of stock-based compensation expense and payroll tax expense related to stock-based activities. For the three months ended October 31, 2016, non-GAAP loss from operations, non-GAAP operating margin, non-GAAP net loss, non-GAAP net loss per share, free cash flow and free cash flow as a percentage of revenue also exclude a one time cash charge related to a legal settlement. The presentation of this financial information is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP.
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 28, 2017 16:05 ET (21:05 GMT)
+
+We use these non-GAAP financial measures for financial and operational decision-making and as a means to evaluate period-to-period comparisons. Our management believes that these non-GAAP financial measures provide meaningful supplemental information regarding our performance and liquidity by excluding certain expenses and expenditures such as stock-based compensation expense that may not be indicative of our ongoing core business operating results. We believe that both management and investors benefit from referring to these non-GAAP financial measures in assessing our performance and when analyzing historical performance and liquidity and planning, forecasting, and analyzing future periods. The presentation of these non-GAAP financial measures is not meant to be considered in isolation or as a substitute for our financial results prepared in accordance with GAAP, and our non-GAAP measures may be different from non-GAAP measures used by other companies.
+
+For a reconciliation of these non-GAAP financial measures to GAAP measures, please see the tables captioned "Reconciliations of non-GAAP results of operations to the nearest comparable GAAP measures" and "Reconciliation from net cash provided by (used in) operating activities to free cash flow," included at the end of this release.
+
+PURE STORAGE, INC.
+
+Condensed Consolidated Balance Sheets
+
+(in thousands)
+
+As of As of
+
+October 31, 2017 January 31, 2017
+
+(unaudited)
+
+Assets
+
+Current assets:
+
+Cash and cash equivalents $ 182,039 $ 183,675
+
+Marketable securities 369,337 362,986
+
+Accounts receivable, net of
+
+allowance of $2,073 and
+
+$2,000 202,006 168,978
+
+Inventory 37,208 23,498
+
+Deferred commissions,
+
+current 20,187 15,787
+
+Prepaid expenses and other
+
+current assets 24,522 25,157
+
+Total current assets 835,299 780,081
+
+Property and equipment, net 84,264 81,695
+
+Intangible assets, net 5,432 6,560
+
+Deferred income taxes,
+
+non-current 965 844
+
+Other assets, non-current 36,596 30,565
+
+Total assets $ 962,556 $ 899,745
+
+Liabilities and
+
+stockholders' equity
+
+Current liabilities:
+
+Accounts payable $ 66,664 $ 52,719
+
+Accrued compensation and
+
+benefits 50,077 39,252
+
+Accrued expenses and other
+
+liabilities 24,945 21,697
+
+Deferred revenue, current 183,889 158,095
+
+Liability related to early
+
+exercised stock options 568 1,362
+
+Total current liabilities 326,143 273,125
+
+Deferred revenue,
+
+non-current 173,641 145,031
+
+Other liabilities,
+
+non-current 3,651 3,159
+
+Total liabilities 503,435 421,315
+
+Stockholders' equity:
+
+Common stock and additional
+
+paid-in capital 1,428,044 1,281,472
+
+Accumulated other
+
+comprehensive loss (719) (562)
+
+Accumulated deficit (968,204) (802,480)
+
+Total stockholders' equity 459,121 478,430
+
+Total liabilities and
+
+stockholders' equity $ 962,556 $ 899,745
+
+PURE STORAGE, INC.
+
+Condensed Consolidated Statements of Operations
+
+(in thousands, except per share data)
+
+Three Months Ended Nine Months Ended
+
+October 31, October 31,
+
+2017 2016 2017 2016
+
+(unaudited)
+
+Revenue:
+
+Product $223,196 $160,523 $536,634 $403,181
+
+Support 54,478 36,433 148,132 96,936
+
+Total revenue 277,674 196,956 684,766 500,117
+
+Cost of revenue:
+
+Product (1) 75,392 54,725 179,289 131,618
+
+Support (1) 20,467 14,597 56,569 41,531
+
+Total cost of
+
+revenue 95,859 69,322 235,858 173,149
+
+Gross profit 181,815 127,634 448,908 326,968
+
+Operating
+
+expenses:
+
+Research and
+
+development (1) 68,927 61,612 203,716 173,185
+
+Sales and
+
+marketing (1) 129,299 91,392 346,896 262,073
+
+General and
+
+administrative
+
+(1) 25,406 22,810 67,664 64,021
+
+Legal settlement
+
+(2) -- 30,000 -- 30,000
+
+Total operating
+
+expenses 223,632 205,814 618,276 529,279
+
+Loss from
+
+operations (41,817) (78,180) (169,368) (202,311)
+
+Other income
+
+(expense), net 1,138 (192) 6,399 1,127
+
+Loss before
+
+provision for
+
+income taxes (40,679) (78,372) (162,969) (201,184)
+
+Provision for
+
+income taxes 970 441 2,755 967
+
+Net loss $(41,649) $(78,813) $(165,724) $(202,151)
+
+Net loss per
+
+share
+
+attributable to
+
+common
+
+stockholders,
+
+basic and
+
+diluted $(0.20) $(0.40) $(0.79) $(1.05)
+
+Weighted-average
+
+shares used in
+
+computing net
+
+loss per share
+
+attributable to
+
+common
+
+stockholders,
+
+basic and
+
+diluted 213,274 195,807 209,456 192,637
+
+(1) Includes stock-based compensation expense as follows:
+
+Cost of revenue
+
+-- product $143 $138 $898 $425
+
+Cost of revenue
+
+-- support 2,422 1,178 6,441 3,982
+
+Research and
+
+development 18,073 15,241 51,632 40,875
+
+Sales and
+
+marketing 12,104 8,468 34,169 24,719
+
+General and
+
+administrative 6,121 3,210 14,780 9,128
+
+Total stock-based
+
+compensation
+
+expense $38,863 $28,235 $107,920 $79,129
+
+(2) One-time charge for our legal settlement with Dell Inc.
+
+PURE STORAGE, INC.
+
+Condensed Consolidated Statements of Cash Flows
+
+(in thousands)
+
+Three Months Ended Nine Months Ended
+
+October 31, October 31,
+
+2017 2016 2017 2016
+
+(unaudited)
+
+Cash flows
+
+from
+
+operating
+
+activities
+
+Net loss $(41,649) $(78,813) $(165,724) $(202,151)
+
+Adjustments
+
+to reconcile
+
+net loss to
+
+net cash
+
+provided by
+
+(used in)
+
+operating
+
+activities:
+
+Depreciation
+
+and
+
+amortization 15,525 13,642 45,525 35,978
+
+Stock-based
+
+compensation
+
+expense 38,863 28,235 107,920 79,129
+
+Other 82 557 879 1,051
+
+Changes in
+
+operating
+
+assets and
+
+liabilities:
+
+Accounts
+
+receivable,
+
+net (33,655) (44,775) (33,630) (38,186)
+
+Inventory (3,827) 2,203 (14,314) (189)
+
+Deferred
+
+commissions (3,022) (43) (7,629) 1,844
+
+Prepaid
+
+expenses and
+
+other
+
+assets 74 848 (112) 39
+
+Accounts
+
+payable 11,607 13,646 11,808 3,639
+
+Accrued
+
+compensation
+
+and other
+
+liabilities 14,319 (1,901) 14,629 6,786
+
+Deferred
+
+revenue 29,931 19,078 54,404 60,180
+
+Net cash
+
+provided by
+
+(used in)
+
+operating
+
+activities 28,248 (47,323) 13,756 (51,880)
+
+Cash flows
+
+from
+
+investing
+
+activities
+
+Purchases of
+
+property and
+
+equipment (14,251) (18,484) (44,351) (64,602)
+
+Purchase of
+
+intangible
+
+assets -- -- -- (1,000)
+
+Purchases of
+
+marketable
+
+securities (56,640) (55,590) (151,998) (483,558)
+
+Sales of
+
+marketable
+
+securities 12,538 20,744 46,067 79,815
+
+Maturities of
+
+marketable
+
+securities 25,340 32,413 99,021 38,213
+
+Net increase
+
+in
+
+restricted
+
+cash (2,029) -- (2,029) (5,600)
+
+Net cash used
+
+in investing
+
+activities (35,042) (20,917) (53,290) (436,732)
+
+Cash flows
+
+from
+
+financing
+
+activities
+
+Net proceeds
+
+from
+
+exercise of
+
+stock
+
+options 8,968 4,356 15,761 10,725
+
+Proceeds from
+
+issuance of
+
+common stock
+
+under
+
+employee
+
+stock
+
+purchase
+
+plan 7,971 10,527 22,137 25,606
+
+Net cash
+
+provided by
+
+financing
+
+activities 16,939 14,883 37,898 36,331
+
+Net increase
+
+(decrease)
+
+in cash and
+
+cash
+
+equivalents 10,145 (53,357) (1,636) (452,281)
+
+Cash and cash
+
+equivalents,
+
+beginning of
+
+period 171,894 205,818 183,675 604,742
+
+Cash and cash
+
+equivalents,
+
+end of
+
+period $182,039 $152,461 $182,039 $152,461
+
+Reconciliations of non-GAAP results of operations to the nearest comparable GAAP measures
+
+The following table presents non-GAAP gross margins by revenue source before certain items (in thousands except percentages, unaudited):
+
+Three Months Ended October 31, 2017 Three Months Ended October 31, 2016
+
+Non- Non-
+
+GAAP Non- GAAP GAAP Non- GAAP
+
+GAAP gross GAAP gross GAAP gross GAAP gross
+
+results margin (a) Adjustment results margin (b) results margin (a) Adjustment results margin (b)
+
+$ 143 (c) $ 138 (c)
+
+5 (d) 2 (d)
+
+Gross
+
+profit
+
+--
+
+product $147,804 66.2 % $ 148 $147,952 66.3 % $105,798 65.9 % $ 140 $105,938 66.0 %
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 28, 2017 16:05 ET (21:05 GMT)
+
+Pure Storage Announces Third Quarter Fiscal 2018 -3-
+
+$ 2,422 (c) $ 1,178 (c)
+
+71 (d) 9 (d)
+
+Gross
+
+profit
+
+--
+
+support $34,011 62.4 % $ 2,493 $36,504 67.0 % $21,836 59.9 % $ 1,187 $23,023 63.2 %
+
+$ 2,565 (c) $ 1,316 (c)
+
+76 (d) 11 (d)
+
+Total
+
+gross
+
+profit $181,815 65.5 % $ 2,641 $184,456 66.4 % $127,634 64.8 % $ 1,327 $128,961 65.5 %
+
+(a) GAAP gross margin is defined as gross profit divided by revenue.
+
+(b) Non-GAAP gross margin is defined as non-GAAP gross profit divided by
+
+revenue.
+
+(c) To eliminate stock-based compensation expense.
+
+(d) To eliminate payroll tax expense related to stock-based activities.
+
+The following table presents certain non-GAAP consolidated results before certain items (in thousands, except per share amounts and percentages,
+
+unaudited):
+
+Three Months Ended October 31, 2017 Three Months Ended October 31, 2016
+
+Non- Non-
+
+GAAP Non- GAAP GAAP Non- GAAP
+
+GAAP operating GAAP operating GAAP operating GAAP operating
+
+results margin (a) Adjustment results margin (b) results margin (a) Adjustment results margin (b)
+
+$ 38,863 (c) $ 28,235 (c)
+
+902 (d) 548 (d)
+
+$ 30,000 (e)
+
+Loss from
+
+operations $(41,817) -15.1 % $ 39,765 $(2,052) -0.7 % $(78,180) -39.7 % $ 58,783 $(19,397) -9.8 %
+
+$ 38,863 (c) $ 28,235 (c)
+
+902 (d) 548 (d)
+
+$ 30,000 (e)
+
+Net loss $(41,649) $ 39,765 $(1,884) $(78,813) $ 58,783 $(20,030)
+
+Net loss per
+
+share --basic
+
+and diluted $(0.20) $(0.01) $(0.40) $(0.10)
+
+Weighted-average
+
+shares used in
+
+per share
+
+calculation
+
+-- basic and
+
+diluted 213,274 213,274 195,807 195,807
+
+(a) GAAP operating margin is defined as loss from operations divided by
+
+revenue.
+
+(b) Non-GAAP operating margin is defined as non-GAAP loss from operations
+
+divided by revenue.
+
+(c) To eliminate stock-based compensation expense.
+
+(d) To eliminate payroll tax expense related to stock-based activities.
+
+(e) To eliminate one-time charge for our legal settlement with Dell Inc.
+
+Reconciliation from net cash provided by (used in) operating activities
+
+to free cash flow (in thousands except percentages, unaudited):
+
+Three Months Ended October 31,
+
+2017 2016
+
+Net cash provided by (used in)
+
+operating activities $ 28,248 $(47,323)
+
+Less: purchases of property and
+
+equipment (14,251) (18,484)
+
+Add: cash paid for legal
+
+settlement $ -- 30,000
+
+Free cash flow $ 13,997 $(35,807)
+
+Free cash flow as % of revenue 5.0% (18.2)%
