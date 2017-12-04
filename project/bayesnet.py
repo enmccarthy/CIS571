@@ -32,10 +32,11 @@ def train():
 def processEmail(fileName, label):
     global trainPositive
     global trainNegative, positiveTotal, negativeTotal
-    path = "/mnt/c/Users/merin/Desktop/CIS571/CSDMC2010_SPAM/CSDMC2010_SPAM/CLEANED_TRAIN"
+    path = "/mnt/c/Users/merin/Desktop/CIS571/project/editedData"
     fi = open(os.path.join(path, fileName), "r")
     for line in fi:
         for word in line.split():
+            word = word.lower()
             if int(label) == 0:
                 trainPositive[word] = trainPositive.get(word,0) + 1
                 positiveTotal +=1
@@ -53,10 +54,11 @@ def conditionalWord(word, label):
 
 def conditionalEmail(fileName, label):
     result = 1.0
-    path = "/mnt/c/Users/merin/Desktop/CIS571/CSDMC2010_SPAM/CSDMC2010_SPAM/CLEANED_TRAIN"
+    path = "/mnt/c/Users/merin/Desktop/CIS571/project/editedData"
     fi = open(os.path.join(path, fileName))
     for line in fi:
         for word in line.split():
+            word = word.lower()
             result *= conditionalWord(word, label)
     return result
 
@@ -78,8 +80,17 @@ for (label, fileName) in test:
         total +=1
     else:
         total +=1
+
 print "Total right:"
 print totalRight
 print "Total files:"
 print total
 print totalRight/float(total)
+print "train negative"
+print trainNegative
+print "train positive"
+print trainPositive
+print "top 10 negative"
+print sorted(trainNegative, key=trainNegative.get, reverse=True)[:10]
+print "top 10 positive"
+print sorted(trainPositive, key=trainPositive.get, reverse=True)[:10]

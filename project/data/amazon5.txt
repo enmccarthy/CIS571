@@ -1,0 +1,137 @@
+AWS Announces Five New Machine Learning Services and the World's First Deep Learning-Enabled Video Camera for Developers
+4 days 4 hours 43 minutes ago - DJNF
+Amazon SageMaker makes it easy to build, train, and deploy machine learning models
+
+AWS DeepLens is the world's first deep learning-enabled wireless video camera built to give developers hands-on experience with machine learning
+
+Amazon Transcribe, Amazon Translate, Amazon Comprehend, and Amazon Rekognition Video allow app developers to easily build applications that transcribe speech to text, translate text between languages, extract insights from text, and analyze videos
+
+NFL, Intuit, Thomson Reuters, DigitalGlobe, Hotels.com, ZipRecruiter, Washington Post, Motorola Solutions, Infor, Elementum, iSentia, RingDNA, and City of Orlando are among the many customers using these new services
+
+SEATTLE--(BUSINESS WIRE)--November 29, 2017--
+
+Today at AWS Re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced five new machine learning services and a deep learning-enabled wireless video camera for developers. Amazon SageMaker is a fully managed service for developers and data scientists to quickly build, train, deploy, and manage their own machine learning models. AWS also introduced AWS DeepLens, a deep learning-enabled wireless video camera that can run real-time computer vision models to give developers hands-on experience with machine learning. And, AWS announced four new application services that allow developers to build applications that emulate human-like cognition: Amazon Transcribe for converting speech to text; Amazon Translate for translating text between languages; Amazon Comprehend for understanding natural language; and, Amazon Rekognition Video, a new computer vision service for analyzing videos in batches and in real-time. To learn more about AWS's machine learning services, visit: https://aws.amazon.com/machine-learning.com.
+
+This press release features multimedia. View the full release here: http://www.businesswire.com/news/home/20171129006097/en/
+
+AWS DeepLens (Photo: Business Wire)
+
+Amazon SageMaker and AWS DeepLens make machine learning accessible to all developers
+
+Today, implementing machine learning is complex, involves a great deal of trial and error, and requires specialized skills. Developers and data scientists must first visualize, transform, and pre-process data to get it into a format that an algorithm can use to train a model. Even simple models can require massive amounts of compute power and a great deal of time to train, and companies may need to hire dedicated teams to manage training environments that span multiple GPU-enabled servers. All of the phases of training a model--from choosing and optimizing an algorithm, to tuning the millions of parameters that impact the model's accuracy--involve a great deal of manual effort and guesswork. Then, deploying a trained model within an application requires a different set of specialized skills in application design and distributed systems. As data sets and variables grow, customers have to repeat this process again and again as models become outdated and need to be continuously retrained to learn and evolve from new information. All of this takes a lot of specialized expertise, access to massive amounts of compute power and storage, and a great deal of time. To date, machine learning has been out of reach for most developers.
+
+Amazon SageMaker is a fully managed service that removes the heavy lifting and guesswork from each step of the machine learning process. Amazon SageMaker makes model building and training easier by providing pre-built development notebooks, popular machine learning algorithms optimized for petabyte-scale datasets, and automatic model tuning. Amazon SageMaker also dramatically simplifies and accelerates the training process, automatically provisioning and managing the infrastructure to both train models and run inference to make predictions using these models. AWS DeepLens was designed from the ground-up to help developers get hands-on experience in building, training, and deploying models by pairing a physical device with a broad set of tutorials, examples, source code, and integration with familiar AWS services to support learning and experimentation.
+
+"Our original vision for AWS was to enable any individual in his or her dorm room or garage to have access to the same technology, tools, scale, and cost structure as the largest companies in the world. Our vision for machine learning is no different," said Swami Sivasubramanian, VP of Machine Learning, AWS. "We want all developers to be able to use machine learning much more expansively and successfully, irrespective of their machine learning skill level. Amazon SageMaker removes a lot of the muck and complexity involved in machine learning to allow developers to easily get started and become competent in building, training, and deploying models."
+
+With Amazon SageMaker developers can:
+
+-- Easily build machine learning models with performance-optimized
+
+algorithms: Amazon SageMaker is a fully managed machine learning notebook
+
+environment makes it easy for developers to explore and visualize data
+
+they have stored in Amazon Simple Storage Service (Amazon S3), and
+
+transform it using all of the popular libraries, frameworks, and
+
+interfaces. Amazon SageMaker includes ten of the most common deep
+
+learning algorithms (e.g. k-means clustering, factorization machines,
+
+linear regression, and principal component analysis), which AWS has
+
+optimized to run up to ten times faster than standard implementations.
+
+Developers simply choose an algorithm and specify their data source, and
+
+Amazon SageMaker installs and configures the underlying drivers and
+
+frameworks. Amazon SageMaker includes native integration with TensorFlow
+
+and Apache MXNet with additional framework support coming soon.
+
+Developers can also specify any framework and algorithm they choose by
+
+uploading them into a container on the Amazon EC2 Container Registry.
+
+-- Fast, fully managed training: Amazon SageMaker makes training easy.
+
+Developers simply select the type and quantity of Amazon EC2 instances
+
+and specify the location of their data. Amazon SageMaker sets up the
+
+distributed compute cluster, performs the training, outputs the result to
+
+Amazon S3, and tears down the cluster when complete. Amazon SageMaker can
+
+automatically tune models with hyper-parameter optimization, adjusting
+
+thousands of different combinations of algorithm parameters to arrive at
+
+the most accurate predictions.
+
+-- Deploy models into production with one click: Amazon SageMaker takes care
+
+of launching instances, deploying the model, and setting up a secure
+
+HTTPS end-point for the application to achieve high throughput and low
+
+latency predictions, as well as auto-scaling Amazon EC2 instances across
+
+multiple availability zones (AZs). It also provides native support for
+
+A/B testing. Once in production, Amazon SageMaker eliminates the heavy
+
+lifting involved in managing machine learning infrastructure, performing
+
+health checks, applying security patches, and conducting other routine
+
+maintenance.
+
+With AWS DeepLens, developers can:
+
+-- Get hands-on machine learning experience: AWS DeepLens is the first of
+
+its kind: a deep-learning enabled, fully programmable video camera,
+
+designed to put deep learning into the hands of any developer, literally.
+
+AWS DeepLens includes a HD video camera with on-board compute capable of
+
+running sophisticated deep learning computer vision models in real-time.
+
+The custom-designed hardware, capable of running over 100 billion deep
+
+learning operations per second, comes with sample projects, example code,
+
+and pre-trained models so even developers with no machine learning
+
+experience can run their first deep learning model in less than ten
+
+minutes. Developers can extend these tutorials to create their own custom,
+
+deep learning-powered projects with AWS Lambda functions. For example,
+
+AWS DeepLens could be programmed to recognize the numbers on a license
+
+plate and trigger a home automation system to open a garage door, or AWS
+
+DeepLens could recognize when the dog is on the couch and send a text to
+
+its owner.
+
+-- Train models in the cloud and deploy them to AWS DeepLens: AWS DeepLens
+
+integrates with Amazon SageMaker so that developers can train their
+
+models in the cloud with Amazon SageMaker and then deploy them to AWS
+
+DeepLens with just a few clicks in the AWS Management Console. The camera
+
+runs the models, in-real time, on the device.
+
+"We've deepened our relationship with AWS, adding them as an Official Technology Provider of the NFL and are excited to use Amazon SageMaker for our next-generation stats initiative," said Michelle McKenna-Doyle, SVP and CIO, National Football League. "With Amazon SageMaker in our toolkit, our developers can stop worrying about the undifferentiated heavy lifting of machine learning, and start adding new visualizations, stats, and experiences that our fans will adore."
+
+As the world's leading provider of high-resolution Earth imagery, data and analysis, DigitalGlobe works with enormous amounts of data every day. "DigitalGlobe is making it easier for people to find, access, and run compute against our 100PB image library which is stored in the AWS cloud in order to apply deep learning to satellite imagery," said Dr. Walter Scott, Chief Technology Officer of Maxar Technologies and founder of DigitalGlobe. "We plan to use Amazon SageMaker to train models against petabytes of earth observation imagery datasets using hosted Jupyter notebooks, so DigitalGlobe's Geospatial Big Data Platform (GBDX) users can just push a button, create a model, and deploy it all within one scalable distributed environment at scale."

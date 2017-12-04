@@ -1,0 +1,85 @@
+Energy Tech: The Hottest Sector of the Year
+3 days 10 hours 47 minutes ago - DJNF
+Safehaven.com News Commentary
+
+LONDON, November 30, 2017 /PRNewswire/ --
+
+The energy landscape is rapidly changing, with new technologies and digitalization creating a "new era" for energy, according to the International Energy Agency (IEA). "Over the coming decades, digital technologies are set to make energy systems around the world more connected, intelligent, efficient, reliable and sustainable," the IEA wrote in a recent report. Included in today's commentary are General Electric Company (NYSE: GE), Intel Corporation (NASDAQ: INTC), Exxon Mobil Corporation (NYSE: XOM), Halliburton Company (NYSE: HAL), PayPal Holdings, Inc. (NYSE: PYPL).
+
+Big data, 3D printing, drones, predictive analytics - these are just some of the trends that are sweeping over the oil and gas industry.
+
+Oil companies are deploying miniaturized sensors and fiber optic sensors in their projects, which allows for much greater recovery of tough-to-get oil and gas reserves. Automated drilling rigs and robots are increasingly used to inspect pipelines, repair subsea infrastructure and monitor transmissions lines and storage tanks, the IEA argues.
+
+But there will be winners and losers in this new era. Companies stuck in the past, doing things the old way, will die off, ceding ground to new innovative upstarts.
+
+The companies that blaze new paths, adopt and invent cutting edge technologies, will be the ones to reap the profits of the digital age.
+
+Here are 5 companies that are leading the way on a new generation of oil and gas exploration:
+
+#1 GE (NYSE: GE)
+
+GE is one of the most recognizable names in industrial manufacturing, and for good reason. But it has had a brutal year, with its share price off by more than a third since January. GE made a few untimely bets on natural gas peaker plant technologies, investments that have gone sour as the electricity business moves aggressively into solar, wind and energy storage.
+
+But GE is still the leader in a long range of cutting edge oil and gas exploration technologies. In 2016, GE demonstrated the use of a new helicopter drone in the Fayetteville Shale in Arkansas - the drone could detect and monitor the emissions of methane from oil and gas wells. GE also is at the forefront of a long line of technologies that will increasingly be taken up by E&Ps looking for an edge, such as subsea production systems, flexible pipes, and other offshore technology.
+
+Yet, it is the pivot to digitalization that should catch the investor's eye. GE partnered with Apple to develop the Predix platform, which allows industrial companies to crunch Big Data in real-time, deploy machine learning models that detect anomalies, predict maintenance, and optimize performance.
+
+#2 Petroteq Energy Inc. (PQE.V; PQEFF)
+
+Petroteq Energy Inc. offers a unique, one-of-a-kind oil production technology that could unlock millions of barrels of oil, and it will be able to produce the oil cleanly and at a low cost. Better yet, Petroteq plans on licensing its technology around the world, raking in hefty profits in the process.
+
+Petroteq has developed a patented technology to extract oil sands in an entirely new way. The conventional method involves mining, lots of water and steam, toxic trailing ponds, lots of emissions, and an incredibly dirty PR image. Canada's oil sands industry is a pariah in many parts of the world - the target of environmental groups, divestment campaigns and increasingly stringent government policy.
+
+Petroteq turns that whole idea on its head. The small company uses a proprietary technology that consists of a closed-loop system and a solvent that cleanly extracts heavy oil sands. It extracts 99 percent of all hydrocarbons at the site, uses no water (so no need for toxic trailing ponds), requires no high temperatures or pressures, and generates no greenhouse gas emissions.
+
+Petroteq is the first company to generate sales from Utah's massive heavy oil reserves in the Unitah basin, which holds an estimated 32 billion barrels.
+
+But surely this can't be profitable? On the contrary, Petroteq will have a plant up and running by February that will produce 1,000 barrels per day with production costs as low as $28 per barrel.
+
+Better yet, the company recently moved its modular plant much closer to the resource, eliminating transportation costs, which could put production costs in the low-$20s per barrel. With efficiencies and scale, Petroteq is aiming at producing 5,000 bpd in 2019 at $18 per barrel. The company is confident it can eventually reach 30,000 bopd based on the proven reserves.
+
+Oil sands from Canada typically trades at a discount, often as much as $20 per barrel below WTI. Some of that is due to quality issues, but a lot of it is due to a shortage of pipeline capacity from Alberta to markets in the U.S., plus the cost of shipping itself.
+
+Petroteq is leaving Canada's old oil sands in the dust. Its location can't be beat, it avoids the hassle of shipping, and the company is nearing agreements with oil majors to purchase 1,000 barrels per day. All of that means that Petroteq's heavy oil is selling at a price that is about on par with WTI - a level that Canada's oil sands giants could only dream of.
+
+But Petroteq's operations in Utah are really just a proving ground for the real moneymaker: licensing its technology to producers around the world. Countries with heavy oil - Canada, China, Indonesia, and parts of South America - are at the top of the company's list. Producers would pay Petroteq a per-barrel fee for the use of their clean oil recovery technology.
+
+That isn't all. In addition to profitable oil sands in Utah and technology licensing, the third leg of Petroteq's stool is blockchain development, which will revolutionize the trade of commodities by offering secure, digitized, tamper-proof and open source data. Petroteq is signing a deal with First Bitcoin Capital, licensing the blockchain built by IBM and turning it into an industry-specific platform (to be completed within the next six months), allowing for the secure flow of data up and down the supply chain.
+
+As The Economist put it earlier this year, "The world's most valuable resource is no longer oil, but data."
+
+Put it all together, and Petroteq offers a compelling investment case that nobody will want to miss. A profitable and clean oil sands extraction technology that has no other competitors; a plan to license that technology all over the world; and a blockchain platform that will lead the industry into a new era.
+
+#3 Intel (NASDAQ: INTC)
+
+Another innovative leader that is set to see sales soar from the energy digitalization wave is Intel (NASDAQ: INTC), a pioneer in computing and data analytics. The Intel Scalable System Framework and HPC solutions allows oil and gas companies to rapidly process seismic data, reservoir simulation and high-fidelity data visualization.
+
+In other words, Intel provides the software and high-powered computing to allow oil and gas drillers to move a lot faster, make better decisions, and ultimately recover more oil and gas at a fraction of the price. The old days of sticking a drill in the ground and hoping for the best are gone. Oil drilling is increasingly a computerized affair. Intel's Scalable System Framework integrates the hardware with the software.
+
+At the same time, Intel also sells commercial drones for the oil and gas industry - small, unmanned units that can be used for inspections, capturing visual or thermal images of flare stacks, underdecks cooling towers and can be used in confined spaces.
+
+#4 ExxonMobil (NYSE: XOM)
+
+ExxonMobil is a world-class oil driller, and in many ways, there is no parallel. 50 years ago Exxon pioneered 3D seismic imaging, something that is now ubiquitous in the oil industry. There is no shortage of other technologies developed or pushed along by the world's most successful oil company.
+
+More recently, Exxon has deployed a long list of new technologies, such as Full Wavefield Inversion, an advanced 4D seismic surveying capability that incorporates time-lapse, supercomputing, and high-definition imaging to see more of the subsurface than ever before. The upshot is that Exxon doesn't drill dry holes like other companies.
+
+Separately, Exxon is now drilling horizontal wells longer than anybody else. It recently completed four shale wells in the Bakken that extended horizontally for 3 miles. And the oil supermajor is close to drilling a 4-mile well, which Barclays says would be "a game changer that could potentially allow the company to leap frog the competition in unit cost and return metrics." Exxon was late to the shale game but now does it better than anyone. It is also light years ahead in terms of profits.
+
+#5 Halliburton (NYSE: HAL)
+
+In August, Halliburton announced a deal with Microsoft (NASDAQ: MSFT) to enter into a strategic alliance to drive digital transformation across the oil and gas industry. The marriage between one of the largest oilfield service companies with a leader in computing will bring machine learning, augmented reality (AR), user interactions and the Industrial Internet of Things to the oil and gas industry.
+
+The partnership of Big Oil and Big Data will allow for "real-time data streaming from IoT edge devices in oilfields and the ability to apply deep-learning models to optimize drilling and production to lower costs for customers," the companies said in an August press release.
+
+It sounds like jargon, but let's be blunt. Halliburton has struggled for business during the oil price downturn, and needs to offer oil producers (its clients) savings in order to revive drilling activity. Discounting services will only go so far, at some point you have to deliver savings and entice them with juicer returns. The partnership with Microsoft, then, should be seen in this light. The massive reams of data can now be analyzed, cloud computing can connect it all together and artificial intelligence can help companies make better decisions. This will turn oil drilling into something that more resembles manufacturing. Ultimately, everyone makes more money.
+
+Honorable Mentions:
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 30, 2017 08:00 ET (13:00 GMT)
+
+Energy Tech: The Hottest Sector of the Year -2-
+
+PayPal (NYSE: PYPL) is the leading innovator in on-line banking and electronic transactions, PayPal acquired a new product in 2014: Venmo, an electronic repayment software, which found massive appeal for people looking for an easy way to split bar-tabs, pay back friends and move money easily back and forward between accounts.

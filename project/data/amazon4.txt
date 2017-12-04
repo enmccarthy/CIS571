@@ -1,0 +1,28 @@
+Intuit Selects AWS for Machine Learning and Artificial Intelligence
+6 days 9 hours 54 minutes ago - DJNF
+Financial technology leader accelerates artificial intelligence efforts leveraging the cloud with the broadest and deepest functionality
+SEATTLE--(BUSINESS WIRE)--November 27, 2017--
+
+Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Intuit Inc. (NASDAQ: INTU) selected AWS as its standard for machine learning and artificial intelligence workloads. With more than 150 patents pending and 40 artificial intelligence and machine learning features within its products today, Intuit expanded its use of AWS to further expedite deployment of its artificial intelligence and machine learning capabilities at scale for its customers. In addition, Intuit will run its companywide data lake on AWS. Intuit began its artificial intelligence journey over 10 years ago and continues to advance its product experiences, anti-fraud and security, and customer care practices to impact its 46 million customers worldwide.
+
+"We started our journey to AWS in 2013, and AWS has been essential to our transformation in the cloud. We extended our relationship with AWS to enhance our flagship products and services, including QuickBooks, Mint, and TurboTax, and accelerate our efforts to apply artificial intelligence within our business. For example, we will be leveraging AWS Lex technology in a variety of our work, including future versions of QuickBooks Assistant. As trusted stewards of our customers' data, the extension of our relationship with AWS furthers our mission to power prosperity for our customers," said H. Tayloe Stansbury, Executive Vice President and Chief Technology Officer at Intuit.
+
+"Every company in the world has to keep transforming their customer experience and business to remain competitive, and Intuit's cloud-first approach sets them up to continually drive innovation," said Mike Clayville, Vice President, Worldwide Commercial Sales at AWS. "Intuit is an early all-in customer and has chosen to extend their use of AWS to include our leading machine learning capabilities that work hand-in-hand with the AWS storage, security, and analytics services they already use and are familiar with. We look forward to working with Intuit as they continue to incorporate the use of machine learning to deliver even more value to their customers."
+
+About Amazon Web Services
+
+For 11 years, Amazon Web Services has been the world's most comprehensive and broadly adopted cloud platform. AWS offers over 90 fully featured services for compute, storage, networking, database, analytics, application services, deployment, management, developer, mobile, Internet of Things (IoT), Artificial Intelligence (AI), security, hybrid and enterprise applications, from 44 Availability Zones (AZs) across 16 geographic regions in the U.S., Australia, Brazil, Canada, China, Germany, India, Ireland, Japan, Korea, Singapore, and the UK. AWS services are trusted by millions of active customers around the world -- including the fastest growing startups, largest enterprises, and leading government agencies -- to power their infrastructure, make them more agile, and lower costs. To learn more about AWS, visit https://aws.amazon.com.
+
+About Amazon
+
+Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Fire tablets, Fire TV, Amazon Echo, and Alexa are some of the products and services pioneered by Amazon. For more information, visit www.amazon.com/about and follow @AmazonNews.
+
+About Intuit
+
+Intuit Inc. is committed to powering prosperity around the world for consumers, small businesses and the self-employed through its ecosystem of innovative financial management solutions.
+
+Its flagship products and services include QuickBooks(R) and TurboTax(R), which make it easier to manage small businesses and tax preparation and filing. QuickBooks Self-Employed provides freelancers and independent contractors with an easy and affordable way to manage their finances and save money at tax time, while Mint delivers financial tools and insights to help people make smart choices about their money.
+
+Intuit's ProConnect brand portfolio includes ProConnect Tax Online, ProSeries(R) and Lacerte(R), the company's leading tax preparation offerings for professional accountants.
+
+Founded in 1983, Intuit serves 46 million customers in North America, Europe, Australia, Brazil and India, with revenue of $5.2 billion in its fiscal year 2017. The company has approximately 8,200 employees with major offices in the United States, Canada, the United Kingdom, India, Israel, Australia and other locations. More information can be found at www.intuit.com.

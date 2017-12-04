@@ -1,0 +1,75 @@
+AWS Announces Alexa for Business
+3 days 3 hours 56 minutes ago - DJNF
+New AWS service makes it easy for companies to voice-enable their offices with Alexa, giving workers an intelligent assistant
+
+Capital One, Brooks Brothers, and WeWork among the customers using Alexa for Business
+
+Salesforce, Concur, Polycom, RingCentral, and Splunk are among the companies with solutions that work with Alexa for Business
+
+SEATTLE--(BUSINESS WIRE)--November 30, 2017--
+
+Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced Alexa for Business, a new AWS service that provides every employee with an intelligent assistant to simplify their interactions with the technology around them at work--in conference rooms, at their desks, and around the office. Alexa for Business can help automate tasks like starting conference calls, controlling conference room equipment, scheduling meetings, keeping track of tasks, or reordering supplies. Alexa for Business also supports a large and growing list of new skills and integrations from companies like Salesforce, Concur, and Polycom that extend Alexa for Business's functionality into the popular applications and devices customers already use in the workplace. Companies can easily tailor Alexa for Business by building custom "private" skills that integrate with a customer's IT applications and office systems. To help customers easily voice-enable their offices, Alexa for Business includes the tools to set-up and manage Alexa devices, enroll users, and assign skills--at scale. To get started with Alexa for Business, visit: https://aws.amazon.com/alexaforbusiness/.
+
+Today, people spend too much of their days on tedious tasks at work--dialing into meetings, managing their calendars, or searching for information. And, the office technologies designed to help employees stay productive often just add to the load. For example, beginning a meeting in a conference room can take multiple steps; workers have to make sure that the room is available, turn on the video conference equipment, search for dial-in information, and enter passwords. Sometimes, just starting a meeting can take five to ten minutes--if it works at all. There are also many tasks around the office that can be time consuming or frustratingly difficult to figure out, such as finding and scheduling an open conference room, getting someone to fix a broken piece of office equipment, or locating a coworker's office. Alexa for Business helps solve many of these hassles by allowing people to use their voices to interact with technology throughout their workdays. As an intelligent assistant at work, Alexa for Business makes starting a conference call as simple as asking Alexa to "start the meeting." Alexa for Business can help workers manage calendars, keep up with to-do lists, and make phone calls. Around the office, Alexa for Business can handle tasks like notifying IT of an equipment issue, or finding and booking an open conference room--all with just a few words.
+
+"Tens of millions of people already count on Alexa at home, in their cars, and on mobile devices to answer questions, provide news and information, and stay connected to friends and family," said Peter Hill, Director, Productivity Applications, AWS. "Alexa for Business extends the simplicity of voice control to the workplace, while adding powerful tools to help businesses deploy and manage devices, create skills, and deliver voice-first experiences in a scalable way--all backed by the AWS Cloud."
+
+Customers can set up shared Alexa devices in common areas around the workplace--conference rooms, huddle rooms, lobbies, and communications centers--and manage these devices, enroll users, and assign skills from the AWS Management Console. With shared Alexa devices, users can start and end meetings in conference rooms by saying "Alexa, start/end the meeting." Alexa will automatically dial into the meeting using an Alexa device as a speakerphone or existing video conferencing equipment. Alexa for Business can also voice-enable conference room features, including the lights and video conferencing equipment. Individual users can also use Alexa for Business from their desks to automatically dial into conference calls, check their upcoming appointments, and schedule or cancel meetings. Alexa for Business works with Microsoft Office 365, Microsoft Exchange, and Google G Suite.
+
+Solution and software providers, including Salesforce, Concur, SuccessFactors, ServiceNow, Splunk, Acumatica, Tact, Polycom, Crestron, RingCentral, Teem, Twine, and Zoom, are integrating their business applications with Alexa for Business or developing skills that will allow users to accomplish all kinds of tasks with simple utterances like:
+
+-- "Alexa, ask RingCentral to read me my voicemail"
+
+-- "Alexa, ask Salesforce for the current status of my team's big deals
+
+scheduled to close this quarter"
+
+-- "Alexa, ask Concur when my flight leaves"
+
+-- "Alexa, ask SuccessFactors to file paid time off for November 28 and 29,
+
+2017"
+
+-- "Alexa, ask Splunk how many Amazon EC2 instances are running in our South
+
+America region"
+
+-- "Alexa, ask Cloudwatch to tell me about any alarms"
+
+Additionally, customers can leverage the tens of thousands of public skills available for Alexa today, and create new private ones for their employees by using the Alexa Skills Kit and the Alexa for Business APIs. By building their own Alexa skills, companies can easily voice-enable the workplace, and let Alexa help with common everyday tasks like providing directions to people's offices, finding open meeting rooms, checking relevant transportation schedules, ordering supplies, reporting building problems, or notifying IT of an equipment issue.
+
+Capital One, a leading information-based technology company and digital banking innovator, has taken a cloud-first approach to software development. "Our technology leaders expect always-on visibility into AWS infrastructure performance across our lines of business," said Surya Avirneni, Master Software Engineer, Capital One. "As part of the developer preview, we built a private Alexa for Business skill that allows our teams to quickly check the status on our systems, or to request specific updates on high severity events, but we needed a way to make this available to our teams without publishing it in the Alexa Skills Store. Alexa for Business allows us to publish skills for internal use only, and the Alexa for Business APIs enable us to build skill discovery and self-enrollment capabilities for our associates."
+
+Founded in New York in 1818, Brooks Brothers is one of America's oldest brands and a leading global retailer of men's and women's apparel and accessories. "At Brooks Brothers, our employees are already successfully using Amazon Chime for productive online meetings. With Alexa for Business, we are now using Alexa to simplify our conference room experience," said Philip Miller, CISO, Brooks Brothers. "Alexa takes care of all the details by allowing us to begin meetings with the simple voice command, 'Alexa, start the meeting.' Not only does Alexa for Business make it easy for me to provision and manage Echo devices throughout my office, but also configure them to work with Amazon Chime and my existing conference room AV/VC equipment."
+
+WeWork provides and manages 10 million square feet of shared workspaces, technology startup subculture communities, and services for entrepreneurs, freelancers, startups, small businesses and large enterprises. "At WeWork, we are focused on building the space of the future and creating the best experience for our employees and members," said Dave Fano, Chief Growth Officer, WeWork. "Alexa for Business is helping us move towards our greater vision of a smart, connected space that responds to your needs. With the private skills that we've built, Alexa can reserve conference rooms, file help tickets, and start meetings. Alexa for Business makes it easy for us to configure and deploy both Alexa devices and the skills we need to improve our employee's productivity. We're excited to soon offer these same conveniences to our members."
+
+Salesforce is the global CRM leader. "For more than 18 years, companies have turned to Salesforce for the latest innovations that will enable them to build deeper, more meaningful relationships with their customers, " said Ryan Aytay, EVP, Business Development & Strategic Accounts, Salesforce. "We are thrilled to be a part of the Alexa for Business launch and to provide our customers exciting new channels to get business done faster and build closer connections with their own customers."
+
+Concur is the world's leading provider of travel, expense and invoice management solutions. "Conversational interfaces are one of the fastest-growing opportunities in tech, opening entirely new channels of communication possibilities," said John Dietz, Vice President, Concur Labs. "The Concur Skill for Alexa for Business, now available in preview, allows users to ask Alexa questions specific to their travel itinerary for an upcoming business trip. For example, if a snow storm has you worried about a delayed flight, you can say 'Alexa, ask Concur: what is my departure time?'"
+
+Polycom helps more than 400,000 organizations unleash the power of human collaboration. "As the market leader in making video calls simple and easy to use, Polycom is excited to take the next step with natural language by demonstrating Alexa voice control with our RealPresence Group Series video conferencing products," said Greg Pelton, CTO of Polycom. "Polycom was the first to make one-touch control to join a video conference call, and by simply saying "Alexa, join the meeting," you will have the ability to easily and simply join a video conference using only your voice. We are in limited trials with select customers today, and know users will love this great, simple experience when it comes to market."
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 30, 2017 14:58 ET (19:58 GMT)
+
+AWS Announces Alexa for Business -2-
+
+Vonage is a leading provider of cloud communications services for consumers and businesses. "Vonage is committed to using cloud communication services to deliver Better Business Outcomes to our customers by enabling businesses to be more productive every day from anywhere," said Omar Javaid, Vonage Chief Product Officer, Vonage. "Vonage already offers business customers Amazon Chime Pro, and now, our customers can use Alexa for Business to start meetings instantly with a single voice command--all of which is part of our commitment to helping businesses use communications technology to transform how they work. At Vonage, we are also using Alexa for Business to start our Amazon Chime meetings in 20 conference rooms today, and we will be rolling it out to our offices across the country in 2018."
+
+Customers in the US can bring Alexa to their workplace starting today with the Alexa for Business Starter Kit. Each kit includes the following:
+
+-- 3 Amazon Echo (2nd generation) devices for use in conference rooms
+
+-- 2 Echo Dots (2nd generation) devices for controlling equipment in large
+
+conference rooms
+
+-- 2 Echo Show devices, perfect for desktop use
+
+Additional details on the Alexa for Business Starter Kit are available at https://www.amazon.com/alexaforbusiness.
+
+About Amazon Web Services
+
+For more than 11 years, Amazon Web Services has been the world's most comprehensive and broadly adopted cloud platform. AWS offers over 100 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, and application development, deployment, and management from 44 Availability Zones (AZs) across 16 geographic regions in the U.S., Australia, Brazil, Canada, China, Germany, India, Ireland, Japan, Korea, Singapore, and the UK. AWS services are trusted by millions of active customers around the world--including the fastest-growing startups, largest enterprises, and leading government agencies--to power their infrastructure, make them more agile, and lower costs. To learn more about AWS, visit https://aws.amazon.com.

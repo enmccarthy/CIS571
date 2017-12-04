@@ -1,0 +1,35 @@
+Seven minutes a day of watching stuff is all that Facebook ( s) needs people 
+to do to help the company break even on its investment in producing original 
+video in 2018, writes Brian Nowak of Morgan Stanley today.
+
+He expects Facebook will easily leap that hurdle next year, reiterating an 
+Overweight rating on the shares and a $200 price target.
+
+Video is the thing CEO and founder Mark Zuckerberg called the biggest trend 
+for the company during the Q3 conference call with analysts. Facebook has 
+introduced a "tab" labeled " Watch" to draw people to stuff, and its Watch that 
+Nowak today sets about analyzing.
+
+He acknowledges this is tricky because it's "challenging" to estimate how much 
+content Facebook will produce, both long-form and short-form. He's come up with a 
+"base model" in which he assumes they make 15 of the former and 12 "episodes" of 
+short-form in 2018.
+
+Nowak thinks the most likely scenario is that they make a little over half a
+ billion dollars next year on $400 million of development spending, as viewership 
+ rises to 20 minutes a day on average, more than the 7 minutes they need to break 
+ even on a lower investment:
+
+By our math FB needs to drive Watch engagement to 2% of total core FB minutes to 
+break-even on our base case $200mn content investment. This implies 7 Watch minutes
+ per N. America DAU/day (Watch is currently only in US) or 3 minutes across N.
+  America/Europe (if FB expands Watch) [...] We Model $565 million of '18 Watch
+   Video Revenue, $400mn of Video Spend. We estimate that FB grows Watch to 6% of 
+   total FB minutes, or an average of 20 minutes per N. America DAU/day...still 
+   materially lower than daily video consumption on other, more established platforms.
+
+Nowak thinks it's "difficult" to see Facebook spending more than a billion on 
+development next year, but if it does happen, it would be a bullish sign, as 
+"it would speak to Facebook's success in changing consumer behavior."
+
+Facebook shares today closed own $2.08, or 1%, at $175.10.
