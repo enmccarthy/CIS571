@@ -1,7 +1,9 @@
 from __future__ import division
 import numpy as np
 import os
+import re
 from divLabels import learn, test
+import codecs
 # TODO
 #this should probably take the log instead of floating point multi
 #becasue the numbers can get too small
@@ -94,3 +96,16 @@ print "top 10 negative"
 print sorted(trainNegative, key=trainNegative.get, reverse=True)[:10]
 print "top 10 positive"
 print sorted(trainPositive, key=trainPositive.get, reverse=True)[:10]
+
+f = codecs.open("positiveWords.txt", "w", "utf-8")
+for k, v in trainPositive.iteritems():
+    for i in range(v):
+         k = re.sub(r'[^\x00-\x7F]',' ', k)
+         f.write(k + '\n')
+f.close()
+f = codecs.open("negativeWords.txt", "w", "utf-8")
+for k,v in trainNegative.iteritems():
+    for i in range(v):
+        k = re.sub(r'[^\x00-\x7F]',' ', k)
+        f.write(k + '\n')
+        

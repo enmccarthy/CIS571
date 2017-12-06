@@ -3,6 +3,8 @@ from stop_words import get_stop_words
 stop_words = get_stop_words('en')
 stop_words = set(stop_words)
 stop_words.add("I")
+stop_words.add("us")
+stop_words.add("mogo")
 stop_words.add("d")
 stop_words.add("including")
 stop_words.add("E")
